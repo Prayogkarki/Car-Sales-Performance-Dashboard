@@ -53,13 +53,19 @@ The dashboard provides interactive insights into key metrics such as **YTD, MTD,
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](dashboard/main_dashboard.png)
-
-
-
+![Main Dashboard](dashboard/overview_dashboard.png)
 
 ### Detailed Table
-![Table](dashboard/details_table.png)
+![Table](dashboard/details_dashboard.png)
+
+### KPIs
+![KPIs](dashboard/kpis.png)
+
+### Charts
+![Charts](dashboard/charts.png)
+
+### Detailed Table
+![Filters](dashboard/filters.png)
 
 ---
 
